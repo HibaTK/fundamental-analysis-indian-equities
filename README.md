@@ -69,12 +69,12 @@ This project simplifies the process by:
   
   ## 🔍 Analysis Workflow
   -  ✔ Data Cleaning Performed
-    - [x]Column renaming
-    - [x]Removing unnecessary fields
-    - [x]Handling missing values
-    - [x]Checking outliers but keeping true market variability
-    - [x]Converting datatypes
-    - [x]Removing duplicates
+    - [x] Column renaming
+    - [x] Removing unnecessary fields
+    - [x] Handling missing values
+    - [x] Checking outliers but keeping true market variability
+    - [x] Converting datatypes
+    - [x] Removing duplicates
 
   ## 📈 Univariate Analysis
   
