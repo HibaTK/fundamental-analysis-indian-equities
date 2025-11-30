@@ -4,27 +4,26 @@ This project provides a comprehensive financial analysis of Indian equities to i
 
 ## 📝 Table of Contents
 
-📌 Introduction
-🎯 Aim
-📂 Dataset Overview
-❓ Problem Statement
-🛠️ Tools & Technologies
-📁 Project Structure
-🔍 Analysis Workflow
-📈 Univariate Analysis
-🔗 Bivariate Analysis
-🔎 Feature Engineering
-📊 Multivariate Analysis
-💡 Key Takeaways
+- 📌 Introduction
+- 🎯 Aim
+- 📂 Dataset Overview
+- ❓ Problem Statement
+- 🛠️ Tools & Technologies
+- 🔍 Analysis Workflow
+- 📈 Univariate Analysis
+- 🔗 Bivariate Analysis
+- 🔎 Feature Engineering
+- 📊 Multivariate Analysis
+- 💡 Key Takeaways
 
 ## 📌 Introduction
 This project focuses on a comprehensive financial analysis of Indian equities to identify high-quality and stable companies using fundamental metrics.
 
 The analysis includes:
-Individual metric analysis
-Relationship exploration
-Feature engineering
-Multivariate screeningfundamental metrics.
+* Individual metric analysis
+* Relationship exploration
+* Feature engineering
+* Multivariate screeningfundamental metrics.
 
 ## 🎯 Aim
 To analyze the financial performance of Indian companies and identify high-quality, stable stocks using key financial metrics through data-driven evaluation.
@@ -50,24 +49,23 @@ The dataset contains financial information for major Indian companies, including
 Investors struggle to identify stable and fundamentally strong companies from a large universe of stocks.
 This project simplifies the process by:
 
-Analyzing key financial indicators
-Studying valuation, profitability, growth, and stability
-Identifying high-quality companies with consistent performance
+- Analyzing key financial indicators
+- Studying valuation, profitability, growth, and stability
+- Identifying high-quality companies with consistent performance
 
 ## 🛠️ Tools & Technologies
 
-Python
-Jupyter Notebook
-Libraries Used:
+- Python
+- Jupyter Notebook
+- Libraries Used:
  
-     pandas
-
-     numpy
-
-     matplotlib
-
-     seaborn
-
-     plotly
+      pandas
+      numpy
+      matplotlib
+      seaborn
+      plotly
+  
+  ## 🔍 Analysis Workflow
+ 
 
 
