@@ -1,5 +1,5 @@
 # 📊 Fundamental Financial Screening & Analytics for Indian Equities
-![Cover Image](nifty.jpg)
+<img src="nifty.jpg" alt="Cover Image" width="100%" />
 This project provides a comprehensive financial analysis of Indian equities to identify high-quality and stable companies using fundamental metrics. It includes metric-wise exploration, cross-metric analysis, feature engineering, and multi-metric insights to highlight financially strong businesses.
 
 ## 📝 Table of Contents
